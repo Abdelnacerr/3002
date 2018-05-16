@@ -1,0 +1,33 @@
+body {
+    background-color:black;
+}
+.form-inline{
+    position: relative;
+    width: 50%;
+    float: right;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.About{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+
+}
+#signup{
+    color: white;
+    border-style: solid;
+    border-color: azure;
+    border-radius: 12px;
+    height: 350px;
+}
+.jumbotron{
+    background-color: bisque;
+}
+#questions{
+    color: white;
+    font-weight: bold;
+    width: 150px;
+    margin-top: 5%;
+    }
