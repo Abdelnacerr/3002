@@ -37,3 +37,10 @@ body {
     border: 1px solid #ba68c8;
     box-shadow: 0 0 0 0.2rem rgba(186, 104, 200, .25);
 }
+#submitbutton{
+    float: right;
+}
+.navbar{
+    float: right;
+    border-style: solid;
+}
